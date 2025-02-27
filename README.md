@@ -1,2 +1,2 @@
 # TP1_DEV_JSF
-mini projet : L'application web utilise JSF (PrimeFaces)
+L'application web utilise JSF (PrimeFaces) pour l'authentification et la gestion des utilisateurs. Selon leur rôle (admin ou user), les utilisateurs sont redirigés vers des pages appropriées. Un système de validation et de convertisseurs personnalisés garantit la conformité des données (date, solde, adresse). L'application repose sur Java EE, JPA/Hibernate pour la persistance et Maven pour la gestion des dépendances
